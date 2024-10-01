@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 💻 Experience
-- 이화여대 중앙 실전 창업 학회 UNIS 2기
-- 웹 프로그래밍 동아리 피로그래밍 18기
-- 웹 프로그래밍 동아리 피로그래밍 19기 운영진
-- 신촌 연합 IT 창업 동아리 CEOS 18기 BE
