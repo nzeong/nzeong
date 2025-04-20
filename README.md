@@ -1,5 +1,5 @@
 # 💻 Experience
-- GCCompany DevOps Intern
+- GCCompany DevOps Engineer Intern
 - CEOS(Sinchon Union IT Startup Club) 18th Backend Member
 - Pirogramming(Web Programming Club) 19th Executive Member
 - Pirogramming(Web Programming Club) 18th Member
